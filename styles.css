@@ -168,6 +168,18 @@ button:active {
   transform: translateY(0);
 }
 
+.secondary-btn {
+  background: white;
+  border: 1px solid var(--primary-color);
+  color: var(--primary-color);
+}
+
+.secondary-btn:hover {
+  background: #f8f9fa;
+  border-color: #1a252f;
+  color: #1a252f;
+}
+
 .results-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));

@@ -29,6 +29,9 @@ function setupEventListeners() {
         }
     });
 
+    const locateBtn = document.getElementById('locateBtn');
+    locateBtn.addEventListener('click', handleLocate);
+
     // Autocomplete Logic
     let debounceTimer;
     addressInput.addEventListener('input', () => {
@@ -99,6 +102,48 @@ async function handleSearch() {
     } finally {
         showLoading(false);
     }
+}
+
+async function handleLocate() {
+    if (!navigator.geolocation) {
+        alert('A böngésződ nem támogatja a helymeghatározást.');
+        return;
+    }
+
+    showLoading(true);
+
+    navigator.geolocation.getCurrentPosition(
+        async (position) => {
+            const userCoords = {
+                lat: position.coords.latitude,
+                lon: position.coords.longitude
+            };
+
+            // Reverse geocode to show address in input
+            try {
+                const response = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${userCoords.lat}&lon=${userCoords.lon}`);
+                const data = await response.json();
+                if (data && data.display_name) {
+                    document.getElementById('addressInput').value = data.display_name;
+                }
+            } catch (err) {
+                console.warn('Reverse geocoding failed', err);
+            }
+
+            const closest = calculateClosest(userCoords);
+            displayResults(closest);
+            updateMap(userCoords, closest);
+            showLoading(false);
+        },
+        (error) => {
+            showLoading(false);
+            let msg = 'Hiba történt a helymeghatározás során.';
+            if (error.code === error.PERMISSION_DENIED) {
+                msg = 'Engedélyezd a helyhozzáférést!';
+            }
+            showToast(msg);
+        }
+    );
 }
 
 async function geocodeUserAddress(address) {
@@ -233,16 +278,18 @@ function showLoading(show) {
 
 function copyToClipboard(text) {
     navigator.clipboard.writeText(text).then(() => {
-        showToast();
+        showToast('Cím másolva!');
     }).catch(err => {
         console.error('Copy failed:', err);
+        showToast('Hiba a másoláskor');
     });
 }
 
-function showToast() {
+function showToast(message) {
     const toast = document.getElementById('toast');
+    toast.textContent = message;
     toast.classList.add('show');
     setTimeout(() => {
         toast.classList.remove('show');
-    }, 2000);
+    }, 3000);
 }

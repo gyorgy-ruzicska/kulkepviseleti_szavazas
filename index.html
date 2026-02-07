@@ -36,6 +36,10 @@
                     <i data-lucide="search"></i>
                     Keresés
                 </button>
+                <button id="locateBtn" class="secondary-btn">
+                    <i data-lucide="map-pin"></i>
+                    Bárhol vagyok
+                </button>
             </div>
             <div id="autocomplete-results" class="autocomplete-items"></div>
             <div class="filter-group">
@@ -69,7 +73,7 @@
     <!-- Data & App Logic -->
     <script src="data.js"></script>
     <script src="app.js"></script>
-    <div id="toast" class="toast">Cím másolva!</div>
+    <div id="toast" class="toast"></div>
     <script>
         lucide.createIcons();
     </script>
