@@ -19,10 +19,55 @@ function initMap() {
 function setupEventListeners() {
     const searchBtn = document.getElementById('searchBtn');
     const addressInput = document.getElementById('addressInput');
+    const autocompleteResults = document.getElementById('autocomplete-results');
 
     searchBtn.addEventListener('click', handleSearch);
     addressInput.addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') handleSearch();
+        if (e.key === 'Enter') {
+            handleSearch();
+            autocompleteResults.innerHTML = '';
+        }
+    });
+
+    // Autocomplete Logic
+    let debounceTimer;
+    addressInput.addEventListener('input', () => {
+        clearTimeout(debounceTimer);
+        const query = addressInput.value.trim();
+
+        if (query.length < 3) {
+            autocompleteResults.innerHTML = '';
+            return;
+        }
+
+        debounceTimer = setTimeout(async () => {
+            try {
+                const response = await fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}&limit=5`);
+                const data = await response.json();
+
+                autocompleteResults.innerHTML = '';
+                data.forEach(item => {
+                    const div = document.createElement('div');
+                    div.className = 'autocomplete-item';
+                    div.textContent = item.display_name;
+                    div.addEventListener('click', () => {
+                        addressInput.value = item.display_name;
+                        autocompleteResults.innerHTML = '';
+                        handleSearch();
+                    });
+                    autocompleteResults.appendChild(div);
+                });
+            } catch (error) {
+                console.error('Autocomplete error:', error);
+            }
+        }, 300);
+    });
+
+    // Close autocomplete when clicking outside
+    document.addEventListener('click', (e) => {
+        if (!addressInput.contains(e.target) && !autocompleteResults.contains(e.target)) {
+            autocompleteResults.innerHTML = '';
+        }
     });
 }
 
