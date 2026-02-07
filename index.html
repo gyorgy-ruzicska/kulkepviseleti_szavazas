@@ -38,6 +38,13 @@
                 </button>
             </div>
             <div id="autocomplete-results" class="autocomplete-items"></div>
+            <div class="filter-group">
+                <label class="checkbox-container">
+                    <input type="checkbox" id="accessibleFilter">
+                    <span class="checkmark"></span>
+                    Csak akadálymentes helyszínek
+                </label>
+            </div>
         </section>
 
         <div id="loading" class="loading">
@@ -62,6 +69,7 @@
     <!-- Data & App Logic -->
     <script src="data.js"></script>
     <script src="app.js"></script>
+    <div id="toast" class="toast">Cím másolva!</div>
     <script>
         lucide.createIcons();
     </script>

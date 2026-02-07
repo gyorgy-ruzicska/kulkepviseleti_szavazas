@@ -69,6 +69,13 @@ function setupEventListeners() {
             autocompleteResults.innerHTML = '';
         }
     });
+
+    // Filter listener
+    document.getElementById('accessibleFilter').addEventListener('change', () => {
+        if (document.getElementById('addressInput').value) {
+            handleSearch();
+        }
+    });
 }
 
 async function handleSearch() {
@@ -107,12 +114,16 @@ async function geocodeUserAddress(address) {
 }
 
 function calculateClosest(userCoords) {
+    const isOnlyAccessible = document.getElementById('accessibleFilter').checked;
+
     // KULKEPVISELETEK is loaded from data.js
-    const results = KULKEPVISELETEK.map(loc => {
-        if (loc.lat === null || loc.lon === null) return { ...loc, distance: Infinity };
-        const d = haversineDistance(userCoords.lat, userCoords.lon, loc.lat, loc.lon);
-        return { ...loc, distance: d };
-    });
+    const results = KULKEPVISELETEK
+        .filter(loc => !isOnlyAccessible || loc["Akadálymentesség"] === "akadálymentes")
+        .map(loc => {
+            if (loc.lat === null || loc.lon === null) return { ...loc, distance: Infinity };
+            const d = haversineDistance(userCoords.lat, userCoords.lon, loc.lat, loc.lon);
+            return { ...loc, distance: d };
+        });
 
     return results.sort((a, b) => a.distance - b.distance).slice(0, 3);
 }
@@ -139,6 +150,8 @@ function displayResults(closest) {
         card.className = 'card';
         card.style.animationDelay = `${index * 0.1}s`;
 
+        const gmapsLink = `https://www.google.com/maps/search/?api=1&query=${loc.lat}%2C${loc.lon}`;
+
         card.innerHTML = `
             <div class="card-header">
                 <span class="rank">#${index + 1}</span>
@@ -152,11 +165,26 @@ function displayResults(closest) {
                     ${loc["Akadálymentesség"]}
                 </span>
             </div>
-            <div style="font-size: 0.85rem; color: var(--text-muted);">
+            <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.5rem;">
                 <p><strong>Szavazás ideje:</strong> ${loc["A szavazás ideje"]}</p>
                 <p><strong>Határidő:</strong> ${loc["Kérelem benyújtásának határideje"]}</p>
             </div>
+            
+            <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+                <a href="${gmapsLink}" target="_blank" class="maps-link">
+                    <i data-lucide="map-pin" style="width:14px; height:14px;"></i>
+                    Megnyitás Google Mapsben
+                </a>
+                <button class="copy-btn" data-address="${loc["Külképviselet címe"]}">
+                    <i data-lucide="copy" style="width:14px; height:14px;"></i>
+                    Cím másolása
+                </button>
+            </div>
         `;
+
+        const copyBtn = card.querySelector('.copy-btn');
+        copyBtn.addEventListener('click', () => copyToClipboard(loc["Külképviselet címe"]));
+
         resultsDiv.appendChild(card);
     });
 
@@ -181,8 +209,15 @@ function updateMap(userCoords, closest) {
     const group = [L.latLng(userCoords.lat, userCoords.lon)];
 
     closest.forEach((loc, index) => {
+        const gmapsLink = `https://www.google.com/maps/search/?api=1&query=${loc.lat}%2C${loc.lon}`;
         const m = L.marker([loc.lat, loc.lon]).addTo(map)
-            .bindPopup(`<b>#${index + 1}: ${loc["Ország, település"]}</b><br>${loc["Külképviselet címe"]}`);
+            .bindPopup(`
+                <b>#${index + 1}: ${loc["Ország, település"]}</b><br>
+                ${loc["Külképviselet címe"]}<br><br>
+                <a href="${gmapsLink}" target="_blank" style="color:var(--accent-color); font-weight:bold; text-decoration:none;">
+                    📍 Google Maps megnyitása
+                </a>
+            `);
         markers.push(m);
         group.push(L.latLng(loc.lat, loc.lon));
     });
@@ -194,4 +229,20 @@ function updateMap(userCoords, closest) {
 function showLoading(show) {
     document.getElementById('loading').style.display = show ? 'block' : 'none';
     document.getElementById('results').style.opacity = show ? '0.3' : '1';
+}
+
+function copyToClipboard(text) {
+    navigator.clipboard.writeText(text).then(() => {
+        showToast();
+    }).catch(err => {
+        console.error('Copy failed:', err);
+    });
+}
+
+function showToast() {
+    const toast = document.getElementById('toast');
+    toast.classList.add('show');
+    setTimeout(() => {
+        toast.classList.remove('show');
+    }, 2000);
 }
