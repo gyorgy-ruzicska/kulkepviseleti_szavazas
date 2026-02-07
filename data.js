@@ -186,8 +186,8 @@ const KULKEPVISELETEK = [
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": null,
-    "lon": null
+    "lat": 53.9006011,
+    "lon": 27.558972
   },
   {
     "Ország, település": "Belgium, Brüsszel",
@@ -686,8 +686,8 @@ const KULKEPVISELETEK = [
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": null,
-    "lon": null
+    "lat": 23.12908,
+    "lon": 113.26436
   },
   {
     "Ország, település": "Kína, Peking",
