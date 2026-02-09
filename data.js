@@ -946,8 +946,8 @@ const KULKEPVISELETEK = [
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": null,
-    "lon": null
+    "lat": 55.958674,
+    "lon": -3.186673
   },
   {
     "Ország, település": "Nagy-Britannia és Észak-Írország, London",
@@ -956,8 +956,8 @@ const KULKEPVISELETEK = [
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": null,
-    "lon": null
+    "lat": 51.499546,
+    "lon": -0.164193
   },
   {
     "Ország, település": "Nagy-Britannia és Észak-Írország, Manchester",
@@ -1136,8 +1136,8 @@ const KULKEPVISELETEK = [
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": null,
-    "lon": null
+    "lat": 31.901908,
+    "lon": 35.211053
   },
   {
     "Ország, település": "Panama, Panamaváros",
@@ -1146,8 +1146,8 @@ const KULKEPVISELETEK = [
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": null,
-    "lon": null
+    "lat": 8.980889,
+    "lon": -79.509308
   },
   {
     "Ország, település": "Peru, Lima",
