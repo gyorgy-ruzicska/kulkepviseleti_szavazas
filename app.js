@@ -203,7 +203,7 @@ function displayResults(closest) {
                 <span class="distance">${Math.round(loc.distance).toLocaleString()} km</span>
             </div>
             <h3>${loc["Ország, település"]}</h3>
-            <div class="address">${loc["Külképviselet címe"]}</div>
+            <div class="address">${loc["Szavazóhely címe"]}</div>
             <div style="margin-bottom: 1rem;">
                 <span class="badge ${isAccessible ? 'badge-accessible' : 'badge-not-accessible'}">
                     <i data-lucide="${isAccessible ? 'check-circle' : 'alert-circle'}" style="width:12px; height:12px; vertical-align:middle;"></i>
@@ -220,7 +220,7 @@ function displayResults(closest) {
                     <i data-lucide="map-pin" style="width:14px; height:14px;"></i>
                     Megnyitás Google Mapsben
                 </a>
-                <button class="copy-btn" data-address="${loc["Külképviselet címe"]}">
+                <button class="copy-btn" data-address="${loc["Szavazóhely címe"]}">
                     <i data-lucide="copy" style="width:14px; height:14px;"></i>
                     Cím másolása
                 </button>
@@ -228,7 +228,7 @@ function displayResults(closest) {
         `;
 
         const copyBtn = card.querySelector('.copy-btn');
-        copyBtn.addEventListener('click', () => copyToClipboard(loc["Külképviselet címe"]));
+        copyBtn.addEventListener('click', () => copyToClipboard(loc["Szavazóhely címe"]));
 
         resultsDiv.appendChild(card);
     });
@@ -258,7 +258,7 @@ function updateMap(userCoords, closest) {
         const m = L.marker([loc.lat, loc.lon]).addTo(map)
             .bindPopup(`
                 <b>#${index + 1}: ${loc["Ország, település"]}</b><br>
-                ${loc["Külképviselet címe"]}<br><br>
+                ${loc["Szavazóhely címe"]}<br><br>
                 <a href="${gmapsLink}" target="_blank" style="color:var(--accent-color); font-weight:bold; text-decoration:none;">
                     📍 Google Maps megnyitása
                 </a>
