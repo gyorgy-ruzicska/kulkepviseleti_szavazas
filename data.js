@@ -2,7 +2,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Albánia, Tirana",
     "Külképviselet címe": "Magyarország Nagykövetsége, Tirana, Rruga Kuvajt 47.",
-    "Névjegyzékbe vett választópolgárok száma": "17",
+    "Névjegyzékbe vett választópolgárok száma": "33",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -12,7 +12,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Algéria, Algír",
     "Külképviselet címe": "Konzuli Hivatal, 29, Chemin Ismail Chaalal, El Mouradia, Alger",
-    "Névjegyzékbe vett választópolgárok száma": "5",
+    "Névjegyzékbe vett választópolgárok száma": "8",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -22,7 +22,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Amerikai Egyesült Államok, Chicago",
     "Külképviselet címe": "Magyarország Főkonzulátusa, 303 East Wacker Drive, Unit: 2050, Chicago, IL 60601",
-    "Névjegyzékbe vett választópolgárok száma": "36",
+    "Névjegyzékbe vett választópolgárok száma": "61",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -32,7 +32,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Amerikai Egyesült Államok, Houston",
     "Külképviselet címe": "Magyarország Alkonzulátusa, 1980 Post Oak Blvd ste 200, Houston, TX 77056",
-    "Névjegyzékbe vett választópolgárok száma": "31",
+    "Névjegyzékbe vett választópolgárok száma": "61",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -42,7 +42,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Amerikai Egyesült Államok, Los Angeles",
     "Külképviselet címe": "Magyarország Főkonzulátusa, 11766 Wilshire Blvd, Suite 410, Los Angeles, CA 90025",
-    "Névjegyzékbe vett választópolgárok száma": "55",
+    "Névjegyzékbe vett választópolgárok száma": "94",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -52,7 +52,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Amerikai Egyesült Államok, Miami",
     "Külképviselet címe": "Miami Alkonzulátus –2121 Ponce de Leon Blvd Suite 732, Coral Gables, FL, 33134",
-    "Névjegyzékbe vett választópolgárok száma": "61",
+    "Névjegyzékbe vett választópolgárok száma": "125",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -62,7 +62,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Amerikai Egyesült Államok, New York",
     "Külképviselet címe": "New York Főkonzulátus, 223 East 52nd Street, New York, N.Y., 10022-6301.",
-    "Névjegyzékbe vett választópolgárok száma": "149",
+    "Névjegyzékbe vett választópolgárok száma": "287",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -72,7 +72,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Amerikai Egyesült Államok, San Francisco",
     "Külképviselet címe": "5201 Great America Parkway, Suite 320, Techmart Business Center, Santa Clara, CA 95054",
-    "Névjegyzékbe vett választópolgárok száma": "34",
+    "Névjegyzékbe vett választópolgárok száma": "71",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -82,7 +82,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Amerikai Egyesült Államok, Washington",
     "Külképviselet címe": "Magyarország Nagykövetsége, 3910 Shoemaker Street, N.W. Washington, D.C. 20008",
-    "Névjegyzékbe vett választópolgárok száma": "57",
+    "Névjegyzékbe vett választópolgárok száma": "127",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -102,7 +102,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Argentína, Buenos Aires",
     "Külképviselet címe": "Embajada de Hungría, Suipacha 1111. 9. emelet C.F. Buenos Aires (CD1008)",
-    "Névjegyzékbe vett választópolgárok száma": "10",
+    "Névjegyzékbe vett választópolgárok száma": "18",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -112,7 +112,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Ausztrália, Canberra",
     "Külképviselet címe": "Magyarország Nagykövetsége, Canberra; 17 Beale Crescent, Deakin, ACT 2600, Ausztrália",
-    "Névjegyzékbe vett választópolgárok száma": "7",
+    "Névjegyzékbe vett választópolgárok száma": "17",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -122,7 +122,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Ausztrália, Melbourne",
     "Külképviselet címe": "Magyarország Konzuli Irodája, Melbourne; 123 St. Georges Road, Fitzroy North, VIC 3068, Ausztrália",
-    "Névjegyzékbe vett választópolgárok száma": "21",
+    "Névjegyzékbe vett választópolgárok száma": "53",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -131,8 +131,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Ausztrália, Sydney",
-    "Külképviselet címe": "Magyarország Külgazdasági és Konzuli Irodája, Sydney; Level 11, 309 Kent Street, Sydney NSW 2000",
-    "Névjegyzékbe vett választópolgárok száma": "40",
+    "Külképviselet címe": "Ground level, 321 Kent Street, Sydney NSW 2000",
+    "Névjegyzékbe vett választópolgárok száma": "104",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -141,8 +141,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Ausztria, Bécs",
-    "Külképviselet címe": "Magyarország Nagykövetsége, Konzuli Osztály, 1010 Wien, Schenkenstraße 3.",
-    "Névjegyzékbe vett választópolgárok száma": "198",
+    "Külképviselet címe": "Magyarország Nagykövetsége, 1010 Wien, Bankgasse 6.",
+    "Névjegyzékbe vett választópolgárok száma": "412",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -152,7 +152,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Ausztria, Innsbruck",
     "Külképviselet címe": "Magyarország Főkonzulátusa, 6020 Innsbruck, Speckbacherstrasse 31-33",
-    "Névjegyzékbe vett választópolgárok száma": "125",
+    "Névjegyzékbe vett választópolgárok száma": "274",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -162,7 +162,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Azerbajdzsán, Baku",
     "Külképviselet címe": "Magyarország Bakui Nagykövetsége, Mirza Mansur 72-74, Icheri Sheher, 1004 Baku, Azerbajdzsán",
-    "Névjegyzékbe vett választópolgárok száma": "8",
+    "Névjegyzékbe vett választópolgárok száma": "14",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -192,7 +192,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Belgium, Brüsszel",
     "Külképviselet címe": "Magyarország Nagykövetsége, Brüsszel, 44 Avenue du Vert Chasseur, 1180 Bruxelles",
-    "Névjegyzékbe vett választópolgárok száma": "276",
+    "Névjegyzékbe vett választópolgárok száma": "512",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -202,7 +202,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Bosznia-Hercegovina, Szarajevó",
     "Külképviselet címe": "Magyarország Nagykövetsége, 71000 Szarajevó, Splitska 2. Bosznia-Hercegovina",
-    "Névjegyzékbe vett választópolgárok száma": "7",
+    "Névjegyzékbe vett választópolgárok száma": "21",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -221,8 +221,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Brazília, Sao Paulo",
-    "Külképviselet címe": "Magyarország Főkonzulátusa, Cidade Jardim Corporate Center Av. Magalhães de Castro 4800, Edif. Park Tower, 21º and. cj. 212. - 05676-120, São Paulo-SP",
-    "Névjegyzékbe vett választópolgárok száma": "10",
+    "Külképviselet címe": "Magyarország Főkonzulátusa, Cidade Jardim Corporate Center Av. Magalhaes de Castro 4800, Edif. Park Tower, 21o and. cj. 212. - 05676-120, Sao Paulo-SP",
+    "Névjegyzékbe vett választópolgárok száma": "19",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -231,8 +231,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Bulgária, Szófia",
-    "Külképviselet címe": "Magyarország Szófiai Nagykövetsége 1000 Szófia, ul. 6-ti Szeptemvri 57.",
-    "Névjegyzékbe vett választópolgárok száma": "17",
+    "Külképviselet címe": "Magyarország Szófiai Nagykövetsége Sofia Center, 6th September St 57, 1000 Sofia",
+    "Névjegyzékbe vett választópolgárok száma": "26",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -242,17 +242,17 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Chile, Santiago de Chile",
     "Külképviselet címe": "Magyarország Nagykövetsége, Santiago de Chile, Avenida Los Leones 2279, Providencia, Santiago de Chile",
-    "Névjegyzékbe vett választópolgárok száma": "9",
+    "Névjegyzékbe vett választópolgárok száma": "18",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": -33.4377756,
-    "lon": -70.6504502
+    "lat": -33.4376995,
+    "lon": -70.6510671
   },
   {
     "Ország, település": "Ciprus, Nicosia",
     "Külképviselet címe": "72 Lemesou Avenue, (Asteroid Tower, 6. emelet), 2014 Nicosia",
-    "Névjegyzékbe vett választópolgárok száma": "25",
+    "Névjegyzékbe vett választópolgárok száma": "69",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -272,7 +272,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Csehország, Prága",
     "Külképviselet címe": "Magyarország Nagykövetsége, Prága, Pod Hradbami 17, 16000",
-    "Névjegyzékbe vett választópolgárok száma": "63",
+    "Névjegyzékbe vett választópolgárok száma": "121",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -281,18 +281,18 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Dánia, Koppenhága",
-    "Külképviselet címe": "Strandvejen 170, 2920 Charlottenlund, Dánia",
-    "Névjegyzékbe vett választópolgárok száma": "252",
+    "Külképviselet címe": "Glostrup Hallen, Stadionvej 80, 2600 Glostrup, Dánia",
+    "Névjegyzékbe vett választópolgárok száma": "511",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 55.751831,
-    "lon": 12.591525
+    "lat": 55.6867243,
+    "lon": 12.5700724
   },
   {
     "Ország, település": "Dél-afrikai Köztársaság, Pretoria",
     "Külképviselet címe": "Magyarország Nagykövetsége, Pretoria, 959 Arcadia Street, Hatfield, Pretoria 0083",
-    "Névjegyzékbe vett választópolgárok száma": "7",
+    "Névjegyzékbe vett választópolgárok száma": "11",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -302,7 +302,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Ecuador, Quito",
     "Külképviselet címe": "Magyarország Nagykövetsége, Edificio Multiapoyo, 6. emelet, Pedro Ponce Carrasco E9-25 y Avenida 6 de Diciembre, 170517, Quito, Ecuador",
-    "Névjegyzékbe vett választópolgárok száma": "6",
+    "Névjegyzékbe vett választópolgárok száma": "7",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -312,17 +312,17 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Egyesült Arab Emírségek, Abu Dhabi",
     "Külképviselet címe": "Magyarország Nagykövetsége, Al Khazna Tower VI. em. 603-604 iroda, P.O. Box 44450, Abu Dhabi, UAE",
-    "Névjegyzékbe vett választópolgárok száma": "81",
+    "Névjegyzékbe vett választópolgárok száma": "136",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
-    "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
+    "Kérelem benyújtásának határideje": "2026. április 2:00, 16:00 (CET)",
     "lat": 24.4538352,
     "lon": 54.3774014
   },
   {
     "Ország, település": "Egyiptom, Kairó",
     "Külképviselet címe": "Magyarország Nagykövetsége, Kairó, Mohamed Mazhar st. 29., Zamalek, 11211",
-    "Névjegyzékbe vett választópolgárok száma": "9",
+    "Névjegyzékbe vett választópolgárok száma": "26",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -332,7 +332,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Észak-Macedónia, Szkopje",
     "Külképviselet címe": "Észak-macedón Köztársaság, Magyarország Nagykövetsége, 1000, Szkopje, Mirka Ginova u. 27.",
-    "Névjegyzékbe vett választópolgárok száma": "9",
+    "Névjegyzékbe vett választópolgárok száma": "15",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -342,7 +342,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Észtország, Tallinn",
     "Külképviselet címe": "Magyarország Nagykövetsége, Tallinn, Maakri 19/1, 28. emelet, 10145 Tallinn",
-    "Névjegyzékbe vett választópolgárok száma": "13",
+    "Névjegyzékbe vett választópolgárok száma": "29",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -352,7 +352,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Etiópia, Addisz-Abeba",
     "Külképviselet címe": "Magyarország Nagykövetsége (Addisz-Abeba, Bole sub-city, Woreda 03, House No. 4002. SNAP Plaza 4. emelet",
-    "Névjegyzékbe vett választópolgárok száma": "1",
+    "Névjegyzékbe vett választópolgárok száma": "2",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -361,8 +361,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Finnország, Helsinki",
-    "Külképviselet címe": "Konzuli Hivatal, 00340 Helsinki, Kuusisaarenkuja 6.",
-    "Névjegyzékbe vett választópolgárok száma": "125",
+    "Külképviselet címe": "Nagyköveti rezidencia, 00340 Helsinki, Intendentinkuja 6.",
+    "Névjegyzékbe vett választópolgárok száma": "221",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -371,18 +371,18 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Franciaország, Lyon",
-    "Külképviselet címe": "2 rue du Président Carnot, 69002 Lyon, France",
-    "Névjegyzékbe vett választópolgárok száma": "39",
+    "Külképviselet címe": "7 rue de la Poudrière, 69001 Lyon, France",
+    "Névjegyzékbe vett választópolgárok száma": "80",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 45.7629006,
-    "lon": 4.8374633
+    "lat": 45.7713281,
+    "lon": 4.8163309
   },
   {
     "Ország, település": "Franciaország, Párizs",
-    "Külképviselet címe": "KONZULI HIVATAL, 9, square Vergennes, 75015 PARIS",
-    "Névjegyzékbe vett választópolgárok száma": "199",
+    "Külképviselet címe": "KONZULI HIVATAL, 7, square Vergennes, 75015 PARIS",
+    "Névjegyzékbe vett választópolgárok száma": "365",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -392,7 +392,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Franciaország, Strasbourg",
     "Külképviselet címe": "Európa Tanács melletti Állandó Képviselet, 4 rue Richard Brunck, 67000 Strasbourg",
-    "Névjegyzékbe vett választópolgárok száma": "17",
+    "Névjegyzékbe vett választópolgárok száma": "43",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -402,7 +402,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Fülöp-szigetek, Manila",
     "Külképviselet címe": "8th Floor, DelRosarioLaw Centre, 21st Drive, Bonifacio Global City, 1630 Taguig City, Metro Manila, Fülöp-szigetek",
-    "Névjegyzékbe vett választópolgárok száma": "2",
+    "Névjegyzékbe vett választópolgárok száma": "8",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -412,7 +412,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Ghána, Accra",
     "Külképviselet címe": "Magyarország Nagykövetsége, Accra, Plot No.44, 6th Circular Road, Cantonments, Accra",
-    "Névjegyzékbe vett választópolgárok száma": "3",
+    "Névjegyzékbe vett választópolgárok száma": "4",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 17:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -422,7 +422,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Görögország, Athén",
     "Külképviselet címe": "Magyarország Nagykövetsége, Athén Konzuli Hivatal, 11635, Athén Vasileos Konstantinou 38. 4. emelet",
-    "Névjegyzékbe vett választópolgárok száma": "41",
+    "Névjegyzékbe vett választópolgárok száma": "83",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -432,7 +432,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Grúzia, Tbiliszi",
     "Külképviselet címe": "Magyar Nagykövetség Tbiliszi, 83. Lvovi street, Saburtalo, 0160 Tbiliszi (Budapesti str. irányából megközelítve)",
-    "Névjegyzékbe vett választópolgárok száma": "9",
+    "Névjegyzékbe vett választópolgárok száma": "18",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -441,18 +441,18 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Hollandia, Hága",
-    "Külképviselet címe": "Magyarország Nagykövetsége, Hága. Hogeweg 14, 2585 JD Den Haag",
-    "Névjegyzékbe vett választópolgárok száma": "728",
+    "Külképviselet címe": "Leonardo Royal Hotel Den Haag Promenade; Van Stolkweg 1, 2585 JL Den Haag",
+    "Névjegyzékbe vett választópolgárok száma": "1349",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 52.0799838,
-    "lon": 4.3113461
+    "lat": 52.0969132,
+    "lon": 4.2872099
   },
   {
     "Ország, település": "Horvátország, Eszék",
     "Külképviselet címe": "Horvátország, 31000 Eszék, Vijenac Ivana Mažuranića 3.",
-    "Névjegyzékbe vett választópolgárok száma": "1",
+    "Névjegyzékbe vett választópolgárok száma": "4",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -461,18 +461,18 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Horvátország, Zágráb",
-    "Külképviselet címe": "10000 Zágráb, Jabukovac 2",
-    "Névjegyzékbe vett választópolgárok száma": "11",
+    "Külképviselet címe": "Liszt Intézet 10000 Zágráb, Augusta Cesarca 10.",
+    "Névjegyzékbe vett választópolgárok száma": "18",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 45.8218856,
-    "lon": 15.9705583
+    "lat": 45.8130967,
+    "lon": 15.9772795
   },
   {
     "Ország, település": "India, Mumbai",
     "Külképviselet címe": "TCG Financial Centre, C-53/G-Block, Bandra-Kurla Complex, Mumbai – MH (Maharashtra) 400098, India",
-    "Névjegyzékbe vett választópolgárok száma": "8",
+    "Névjegyzékbe vett választópolgárok száma": "11",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -481,8 +481,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "India, Újdelhi",
-    "Külképviselet címe": "Újdelhi Nagykövetség,  2/50-M, Niti Marg, Chanakyapuri, New Delhi, Delhi 110021",
-    "Névjegyzékbe vett választópolgárok száma": "7",
+    "Külképviselet címe": "Újdelhi Nagykövetség, 2/50-M, Niti Marg, Chanakyapuri, New Delhi, Delhi 110021",
+    "Névjegyzékbe vett választópolgárok száma": "8",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -492,7 +492,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Indonézia, Jakarta",
     "Külképviselet címe": "Jalan Rasuna Said X/3. No. 1. Kuningan, Jakarta Selatan 12950 Embassy of Hungary",
-    "Névjegyzékbe vett választópolgárok száma": "14",
+    "Névjegyzékbe vett választópolgárok száma": "36",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -512,7 +512,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Irán, Teherán",
     "Külképviselet címe": "Magyarország Nagykövetsége, Darrous, Yakhchal Street 11., Tehran, 1943964511",
-    "Névjegyzékbe vett választópolgárok száma": "0",
+    "Névjegyzékbe vett választópolgárok száma": "2",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -521,8 +521,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Írország, Dublin",
-    "Külképviselet címe": "Magyar Nagykövetség Dublin, cím: 2 Fitzwilliam Place, Dublin 2., D02 K227",
-    "Névjegyzékbe vett választópolgárok száma": "236",
+    "Külképviselet címe": "St. Christopher’s Primary School, Haddington Road, Ballsbridge, Dublin 4, DO4 FP20",
+    "Névjegyzékbe vett választópolgárok száma": "448",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -532,7 +532,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Izrael, Tel-Aviv",
     "Külképviselet címe": "Tel-Aviv 6266108, Pinkas St. 18.",
-    "Névjegyzékbe vett választópolgárok száma": "23",
+    "Névjegyzékbe vett választópolgárok száma": "48",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -542,7 +542,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Japán, Osaka",
     "Külképviselet címe": "Magyaroszág Oszakai Konzulátusa, 1408, 1-1-27 Dojimahama, Kita Ward, Osaka, 530-0004",
-    "Névjegyzékbe vett választópolgárok száma": "29",
+    "Névjegyzékbe vett választópolgárok száma": "56",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -552,7 +552,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Japán, Tokió",
     "Külképviselet címe": "Magyarország Nagykövetsége, Tokió, 2-17-14 Mita, Minato-ku, Tokyo 108-0073",
-    "Névjegyzékbe vett választópolgárok száma": "96",
+    "Névjegyzékbe vett választópolgárok száma": "156",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -562,7 +562,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Jordánia, Amman",
     "Külképviselet címe": "Magyarország Nagykövetsége, Amman, 11181 Jordan, Amman, 24 Hani Al-Akasheh Street",
-    "Névjegyzékbe vett választópolgárok száma": "8",
+    "Névjegyzékbe vett választópolgárok száma": "13",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -581,8 +581,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Kanada, Montreal",
-    "Külképviselet címe": "1155 Metcalfe Street, Suite 1504, Montreal, H3B 2V6, QC, Kanada",
-    "Névjegyzékbe vett választópolgárok száma": "9",
+    "Külképviselet címe": "1155 Metcalfe Street, Salle Cartier, 15th floor, Sun Life Building, Montreal, H3B 2V6, QC, Kanada",
+    "Névjegyzékbe vett választópolgárok száma": "24",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -592,7 +592,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kanada, Ottawa",
     "Külképviselet címe": "299 Waverley Street, Ottawa, ON K2P 0V9",
-    "Névjegyzékbe vett választópolgárok száma": "13",
+    "Névjegyzékbe vett választópolgárok száma": "19",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -602,7 +602,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kanada, Toronto",
     "Külképviselet címe": "175 Bloor Street East, #1109, South Tower, Toronto, ON, M4W 3R8",
-    "Névjegyzékbe vett választópolgárok száma": "42",
+    "Névjegyzékbe vett választópolgárok száma": "84",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -612,7 +612,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kanada, Vancouver",
     "Külképviselet címe": "808 Nelson Street, #701, Vancouver, BC, V6Z 2H2",
-    "Névjegyzékbe vett választópolgárok száma": "28",
+    "Névjegyzékbe vett választópolgárok száma": "54",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -622,7 +622,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Katar, Doha",
     "Külképviselet címe": "Magyarország Nagykövetsége, Doha, West Bay, Zone 66, Saha 83, Villa No. 15. Qatar",
-    "Névjegyzékbe vett választópolgárok száma": "15",
+    "Névjegyzékbe vett választópolgárok száma": "36",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -632,7 +632,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kazahsztán, Almati",
     "Külképviselet címe": "Magyarország Almati Főkonzulátusa, 050043 Almati, Muszabajeva utca 4.",
-    "Névjegyzékbe vett választópolgárok száma": "3",
+    "Névjegyzékbe vett választópolgárok száma": "6",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -642,7 +642,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kazahsztán, Asztana",
     "Külképviselet címe": "Magyarország Nagykövetsége Asztana, 010000 Asztana, Kosmonavtov u. 62. – RENCO irodaház, 9. emelet",
-    "Névjegyzékbe vett választópolgárok száma": "2",
+    "Névjegyzékbe vett választópolgárok száma": "6",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -652,7 +652,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kenya, Nairobi",
     "Külképviselet címe": "Kabarsiran Gardens (off James Gichuru road), Lavington, Nairobi; P.O. Box: 61146-00200",
-    "Névjegyzékbe vett választópolgárok száma": "6",
+    "Névjegyzékbe vett választópolgárok száma": "10",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -662,7 +662,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kína, Csungking",
     "Külképviselet címe": "CCOOP International Center 36-A, No. 235 Minsheng Rd., Yuzhong District, 400010 Chongqing, People’s Republic of China",
-    "Névjegyzékbe vett választópolgárok száma": "17",
+    "Névjegyzékbe vett választópolgárok száma": "27",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -672,7 +672,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kína, Hongkong",
     "Külképviselet címe": "Suites 1208-09, 12/F, ICBC Tower, Three Garden Road, Central, Hongkong",
-    "Névjegyzékbe vett választópolgárok száma": "16",
+    "Névjegyzékbe vett választópolgárok száma": "37",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -682,7 +682,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kína, Kuangcsou",
     "Külképviselet címe": "Kuangcsou, Yuexiu District, Qiaoguang West Road No. 13, Building T1, Floor 25 Office 2507-09, 510240",
-    "Névjegyzékbe vett választópolgárok száma": "2",
+    "Névjegyzékbe vett választópolgárok száma": "7",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -692,7 +692,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kína, Peking",
     "Külképviselet címe": "Kínai Népköztársaság, 100600 Peking, San Li Tun, Dong Zhi Men Wai 10.",
-    "Névjegyzékbe vett választópolgárok száma": "23",
+    "Névjegyzékbe vett választópolgárok száma": "54",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -701,8 +701,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Kína, Sanghaj",
-    "Külképviselet címe": "Sanghaj, Huangpu kerület, Zhongshan East 2nd út 600., Bund Financial Center, 3503-06 irodák",
-    "Névjegyzékbe vett választópolgárok száma": "22",
+    "Külképviselet címe": "200010 Sanghaj, Huangpu kerület, Zhongshan East 2nd út 600., Bund Financial Center, 3503-06-os szobák",
+    "Névjegyzékbe vett választópolgárok száma": "30",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -712,7 +712,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kirgizisztán, Biskek",
     "Külképviselet címe": "Kyrgyzstan, Bishkek, Gogol str. 77/1, 720011",
-    "Névjegyzékbe vett választópolgárok száma": "1",
+    "Névjegyzékbe vett választópolgárok száma": "3",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -722,7 +722,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kolumbia, Bogota",
     "Külképviselet címe": "Bogotá, Carrera 7 no. 75-51, 301. iroda (Edificio Terpel)",
-    "Névjegyzékbe vett választópolgárok száma": "7",
+    "Névjegyzékbe vett választópolgárok száma": "8",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -732,7 +732,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kongói Demokratikus Köztársaság, Kinshasa",
     "Külképviselet címe": "Avenue des Lilas No. 3, Kinshasa/Gombe",
-    "Névjegyzékbe vett választópolgárok száma": "0",
+    "Névjegyzékbe vett választópolgárok száma": "1",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -742,7 +742,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Koreai Köztársaság, Szöul",
     "Külképviselet címe": "Szöul, Yongsan-gu (Dongbinggo-dong), Jangmun-ro 58",
-    "Névjegyzékbe vett választópolgárok száma": "61",
+    "Névjegyzékbe vett választópolgárok száma": "103",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -752,7 +752,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Koszovó, Pristina",
     "Külképviselet címe": "Koszovói Köztársaság, Magyarország Nagykövetsége, 10000 Pristina (Arbëria negyed) , Arben Xheladini utca 157.",
-    "Névjegyzékbe vett választópolgárok száma": "18",
+    "Névjegyzékbe vett választópolgárok száma": "39",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -772,7 +772,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Kuvait, Kuvait",
     "Külképviselet címe": "Kuvaitváros, Hawalli Kormányzóság, Bayan kerület, 13. blokk 30. utca 381-es villa",
-    "Névjegyzékbe vett választópolgárok száma": "3",
+    "Névjegyzékbe vett választópolgárok száma": "8",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -782,7 +782,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Laosz, Vientián",
     "Külképviselet címe": "Royal Square Office Tower, 8. emelet 807, 20 Samsenthai Road, Nongduong Nua Village, Sikhottabong District, Vientiane, Lao PDR",
-    "Névjegyzékbe vett választópolgárok száma": "2",
+    "Névjegyzékbe vett választópolgárok száma": "6",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -792,17 +792,17 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Lengyelország, Gdansk",
     "Külképviselet címe": "Magyarország Főkonzulátusa, 80-864 Gdansk, Plac Porozumienia Gdańskiego 1.",
-    "Névjegyzékbe vett választópolgárok száma": "10",
+    "Névjegyzékbe vett választópolgárok száma": "22",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 54.3482907,
-    "lon": 18.6540233
+    "lat": 54.4288032,
+    "lon": 18.798327
   },
   {
     "Ország, település": "Lengyelország, Krakkó",
     "Külképviselet címe": "Magyarország Főkonzulátusa, Krakkó, ul. Lubicz 17H, 31-503 Kraków",
-    "Névjegyzékbe vett választópolgárok száma": "27",
+    "Névjegyzékbe vett választópolgárok száma": "50",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -812,7 +812,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Lengyelország, Varsó",
     "Külképviselet címe": "Magyarország Nagykövetsége – Varsó, Stratos Office Center, ul. Księdza Ignacego Jana Skorupki 5., VI. Emelet, 00-546 Warszawa",
-    "Névjegyzékbe vett választópolgárok száma": "39",
+    "Névjegyzékbe vett választópolgárok száma": "73",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -822,7 +822,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Lengyelország, Wroclaw",
     "Külképviselet címe": "az Alkonzulátus épülete,ul. Łaciarska 4, 50-104 Wrocław.",
-    "Névjegyzékbe vett választópolgárok száma": "7",
+    "Névjegyzékbe vett választópolgárok száma": "16",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -832,7 +832,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Lettország, Riga",
     "Külképviselet címe": "Lettország, LV-1010 Riga, Baznicas iela 20/22, 4. emelet",
-    "Névjegyzékbe vett választópolgárok száma": "7",
+    "Névjegyzékbe vett választópolgárok száma": "10",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -842,7 +842,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Libanon, Bejrút",
     "Külképviselet címe": "Beirut, Sanayeh, Justinien street, BAC building, 9th floor",
-    "Névjegyzékbe vett választópolgárok száma": "1",
+    "Névjegyzékbe vett választópolgárok száma": "4",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -852,7 +852,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Litvánia, Vilnius",
     "Külképviselet címe": "Jogailos g. 4. Vilnius, 01402 Vilniaus m. sav., Verslo centras 2000 irodaház, 6. emelet",
-    "Névjegyzékbe vett választópolgárok száma": "8",
+    "Névjegyzékbe vett választópolgárok száma": "18",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -861,8 +861,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Luxemburg, Luxembourg",
-    "Külképviselet címe": "Magyarország Brüsszeli Nagykövetségének Irodája, Luxembourg, 8, Boulevard Royal, L-2449, Luxembourg, 4. emelet",
-    "Névjegyzékbe vett választópolgárok száma": "131",
+    "Külképviselet címe": "Centre Culturel de Bonnevoie, 2 Rue des Ardennes, 1133 Bouneweg-Süd Luxembourg, Luxemburg",
+    "Névjegyzékbe vett választópolgárok száma": "237",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -872,7 +872,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Malajzia, Kuala Lumpur",
     "Külképviselet címe": "Magyarország Kuala Lumpur-i Nagykövetsége, Level 11, Wisma Goldhill, 67, Jalan Raja Chulan, 50200 Kuala Lumpur, Malajzia",
-    "Névjegyzékbe vett választópolgárok száma": "7",
+    "Névjegyzékbe vett választópolgárok száma": "16",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -881,8 +881,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Málta, Valletta",
-    "Külképviselet címe": "Magyar Nagykövetségi Iroda, Floriana, Triq Sant' Anna 58., Europa Centre, 3. emelet, 18A",
-    "Névjegyzékbe vett választópolgárok száma": "46",
+    "Külképviselet címe": "Ascencia Malta Business School, Málta, Floriana település, Vincenzo Dimech út 23.",
+    "Névjegyzékbe vett választópolgárok száma": "124",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -891,8 +891,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Marokkó, Rabat",
-    "Külképviselet címe": "17, Zankat Ait Melloul (Route des Zairs) Souissi, Rabat, Maroc 10000",
-    "Névjegyzékbe vett választópolgárok száma": "11",
+    "Külképviselet címe": "17, Rue Ait Melloul Souissi, Rabat, Maroc 10000",
+    "Névjegyzékbe vett választópolgárok száma": "22",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -902,7 +902,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Mexikó, Mexikóváros",
     "Külképviselet címe": "Av. Montes Auvernia 310, Lomas de Chapultepec I Secc, Miguel Hidalgo, 11000 Ciudad de México",
-    "Névjegyzékbe vett választópolgárok száma": "12",
+    "Névjegyzékbe vett választópolgárok száma": "27",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -912,7 +912,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Moldova, Chisinau",
     "Külképviselet címe": "Magyarország Nagykövetsége, Kisinyov, Bulevardul Stefan cel Mare 131.",
-    "Névjegyzékbe vett választópolgárok száma": "2",
+    "Névjegyzékbe vett választópolgárok száma": "5",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -922,7 +922,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Mongólia, Ulánbátor",
     "Külképviselet címe": "Magyarország Nagykövetsége, J.Sambuu str. 32., BLUEMON Center 6. emelet, Ulánbátor 14200, Mongólia",
-    "Névjegyzékbe vett választópolgárok száma": "1",
+    "Névjegyzékbe vett választópolgárok száma": "3",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -932,7 +932,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Montenegró, Podgorica",
     "Külképviselet címe": "81000 Podgorica, Kralja Nikole 104., Montenegró",
-    "Névjegyzékbe vett választópolgárok száma": "3",
+    "Névjegyzékbe vett választópolgárok száma": "8",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -941,38 +941,38 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Nagy-Britannia és Észak-Írország, Edinburgh",
-    "Külképviselet címe": "Magyarország Főkonzulátusa Edinburgh, 25 Union Street, Edinburgh EH1 3LR Nagy-Britannia",
-    "Névjegyzékbe vett választópolgárok száma": "135",
+    "Külképviselet címe": "Assembly Rooms, 54 George Street, Edinburgh EH2 2LR Nagy-Britannia",
+    "Névjegyzékbe vett választópolgárok száma": "250",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 55.958674,
-    "lon": -3.186673
+    "lat": 55.952860,
+    "lon": -3.200542
   },
   {
     "Ország, település": "Nagy-Britannia és Észak-Írország, London",
-    "Külképviselet címe": "Konzuli Hivatal 100 Brompton Rd, London SW3 1ER (első emelet)",
-    "Névjegyzékbe vett választópolgárok száma": "853",
+    "Külképviselet címe": "Novotel London West, 1 Shortlands Hammersmith, London W6 8DR (földszint, Chablis suite)",
+    "Névjegyzékbe vett választópolgárok száma": "1624",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 51.499546,
-    "lon": -0.164193
+    "lat": 51.491758,
+    "lon": -0.219335
   },
   {
     "Ország, település": "Nagy-Britannia és Észak-Írország, Manchester",
     "Külképviselet címe": "1 Portland Street, Manchester M1 3BE",
-    "Névjegyzékbe vett választópolgárok száma": "166",
+    "Névjegyzékbe vett választópolgárok száma": "343",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 53.4804109,
-    "lon": -2.2343326
+    "lat": 53.4815786,
+    "lon": -2.2325148
   },
   {
     "Ország, település": "Németország, Berlin",
     "Külképviselet címe": "Berlini Magyar Nagykövetség épülete (10117 Berlin, Unter den Linden 76)",
-    "Névjegyzékbe vett választópolgárok száma": "226",
+    "Névjegyzékbe vett választópolgárok száma": "469",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -981,8 +981,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Németország, Düsseldorf",
-    "Külképviselet címe": "Magyarország Düsseldorfi Főkonzulátusa, Adersstraße 12-14, 40215 Düsseldorf",
-    "Névjegyzékbe vett választópolgárok száma": "190",
+    "Külképviselet címe": "Gerhart-Hauptmann-Haus Düsseldorf, Bismarckstraße 90, 40210 Düsseldorf",
+    "Névjegyzékbe vett választópolgárok száma": "404",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -991,18 +991,18 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Németország, München",
-    "Külképviselet címe": "Magyarország Főkonzulátusa, 81679 München, Mauerkircherstrasse 1A",
-    "Névjegyzékbe vett választópolgárok száma": "346",
+    "Külképviselet címe": "Leonardo Hotel Munich City East, 39 Carl-Wery-Strasse, München, 81739, Deutschland",
+    "Névjegyzékbe vett választópolgárok száma": "663",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 48.1371079,
-    "lon": 11.5753822
+    "lat": 48.086624,
+    "lon": 11.6464528
   },
   {
     "Ország, település": "Németország, Nürnberg",
     "Külképviselet címe": "Magyarország Müncheni Főkonzulátusának Nürnbergi Konzuli Irodája , 90411 Nürnberg, Flughafenstraße 124.",
-    "Névjegyzékbe vett választópolgárok száma": "105",
+    "Névjegyzékbe vett választópolgárok száma": "221",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1011,8 +1011,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Németország, Stuttgart",
-    "Külképviselet címe": "Magyarország Főkonzulátusa Stuttgart, 70178 Stuttgart, Christophstr. 7., II. emelet",
-    "Névjegyzékbe vett választópolgárok száma": "280",
+    "Külképviselet címe": "Magyarország Főkonzulátusa Stuttgart, 70178 Stuttgart, Christophstr. 7., földszint",
+    "Névjegyzékbe vett választópolgárok száma": "592",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1022,7 +1022,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Nigéria, Abuja",
     "Külképviselet címe": "11 River Niger Street, Maitama, Abuja (FCT)",
-    "Névjegyzékbe vett választópolgárok száma": "0",
+    "Névjegyzékbe vett választópolgárok száma": "1",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1032,7 +1032,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Norvégia, Oslo",
     "Külképviselet címe": "Magyarország Nagykövetsége Oslo – Sophus Lies gate 3, 0264 Oslo, Norvégia",
-    "Névjegyzékbe vett választópolgárok száma": "118",
+    "Névjegyzékbe vett választópolgárok száma": "220",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1042,7 +1042,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Olaszország, Milánó",
     "Külképviselet címe": "Olaszország, 20123 Milánó, Via Fieno 3. IV. emelet",
-    "Névjegyzékbe vett választópolgárok száma": "78",
+    "Névjegyzékbe vett választópolgárok száma": "159",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1051,8 +1051,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Olaszország, Róma",
-    "Külképviselet címe": "Via Messina 15 Roma Konzuli Hivatal",
-    "Névjegyzékbe vett választópolgárok száma": "81",
+    "Külképviselet címe": "Collegium Hungaricum Róma, Via Giulia 1, 00186  Roma",
+    "Névjegyzékbe vett választópolgárok száma": "167",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1062,7 +1062,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Omán, Maszkat",
     "Külképviselet címe": "Muscat, Al-Qurum, Al-Rawaq Building, 2nd Floor, Unit No. 209, Sultanate of Oman",
-    "Névjegyzékbe vett választópolgárok száma": "5",
+    "Névjegyzékbe vett választópolgárok száma": "13",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1072,7 +1072,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Oroszország, Jekatyerinburg",
     "Külképviselet címe": "620075 Jekatyerinburg, Gogol utca 15, I. emelet",
-    "Névjegyzékbe vett választópolgárok száma": "3",
+    "Névjegyzékbe vett választópolgárok száma": "5",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1082,7 +1082,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Oroszország, Kazan",
     "Külképviselet címe": "Kazan, 420107, Szuvár Pláza Üzletközpont, Szpartakovszkaja u. 6. (5. emelet)",
-    "Névjegyzékbe vett választópolgárok száma": "1",
+    "Névjegyzékbe vett választópolgárok száma": "4",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1092,7 +1092,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Oroszország, Moszkva",
     "Külképviselet címe": "115127 Moszkva, Moszfilmovszkaja u. 62.",
-    "Névjegyzékbe vett választópolgárok száma": "12",
+    "Névjegyzékbe vett választópolgárok száma": "27",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1101,8 +1101,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Oroszország, Szentpétervár",
-    "Külképviselet címe": "Szentpétervár, Marata utca 15",
-    "Névjegyzékbe vett választópolgárok száma": "2",
+    "Külképviselet címe": "Magyarország Főkonzulátusa Szentpétervár, 191025 Szentpétervár, Marata u. 15.",
+    "Névjegyzékbe vett választópolgárok száma": "6",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1122,7 +1122,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Pakisztán, Iszlámábád",
     "Külképviselet címe": "Magyarország Nagykövetsége, Iszlámábád, House No. 12., Margalla Road, F-6/3, Islamabad",
-    "Névjegyzékbe vett választópolgárok száma": "2",
+    "Névjegyzékbe vett választópolgárok száma": "7",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1141,8 +1141,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Panama, Panamaváros",
-    "Külképviselet címe": "Panamaváros, Oceanía Business Plaza, torre 1000, Oficina 30D, C. Isaac Hanono Missri, Provincia de Panamá",
-    "Névjegyzékbe vett választópolgárok száma": "7",
+    "Külképviselet címe": "Panamaváros, Oceania Business Plaza Torre 1000, 30-D, C. Isaac Hanono Missri, Panamá, Provincia de Panamá",
+    "Névjegyzékbe vett választópolgárok száma": "8",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1152,7 +1152,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Peru, Lima",
     "Külképviselet címe": "Avenida Jorge Basadre 1580, San Isidro, Lima",
-    "Névjegyzékbe vett választópolgárok száma": "8",
+    "Névjegyzékbe vett választópolgárok száma": "12",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 11., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1162,7 +1162,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Portugália, Lisszabon",
     "Külképviselet címe": "Lisszabon 1300-516, Calçada Santo Amaro 85.",
-    "Névjegyzékbe vett választópolgárok száma": "85",
+    "Névjegyzékbe vett választópolgárok száma": "178",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1172,7 +1172,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Románia, Bukarest",
     "Külképviselet címe": "Magyarország Nagykövetsége, Bukarest, Str. Jean Louis Calderon Nr. 63-65., Sector 2 Bukarest 020034",
-    "Névjegyzékbe vett választópolgárok száma": "15",
+    "Névjegyzékbe vett választópolgárok száma": "28",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1181,8 +1181,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Románia, Csíkszereda",
-    "Külképviselet címe": "Magyarország Főkonzulátusa Csíkszereda, Csíkszereda 530003, Gál Sándor utca 9.",
-    "Névjegyzékbe vett választópolgárok száma": "167",
+    "Külképviselet címe": "Sapientia Erdélyi Magyar Tudományegyetem, Csíkszeredai Kar, Csíkszereda 530104, Szabadság tér, 1.",
+    "Névjegyzékbe vett választópolgárok száma": "294",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1192,7 +1192,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Románia, Kolozsvár",
     "Külképviselet címe": "400113 Kolozsvár, Főtér 23. (Cluj-Napoca, Piata Unirii nr. 23.)",
-    "Névjegyzékbe vett választópolgárok száma": "36",
+    "Névjegyzékbe vett választópolgárok száma": "85",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1202,7 +1202,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Ruanda, Kigali",
     "Külképviselet címe": "Magyarország Nairobi Nagykövetségének Kigali Irodája, Kigali, Kiyovu, KN 78 Str",
-    "Névjegyzékbe vett választópolgárok száma": "1",
+    "Névjegyzékbe vett választópolgárok száma": "3",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1211,28 +1211,28 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Spanyolország, Barcelona",
-    "Külképviselet címe": "Avda Diagonal, 477, 8. emelet, 08036 Barcelona, Spanyolország",
-    "Névjegyzékbe vett választópolgárok száma": "148",
+    "Külképviselet címe": "Carrer del Pintor Fortuny, 4-6, 08001 Barcelona",
+    "Névjegyzékbe vett választópolgárok száma": "313",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 41.3825802,
-    "lon": 2.177073
+    "lat": 41.3830725,
+    "lon": 2.1700432
   },
   {
     "Ország, település": "Spanyolország, Madrid",
-    "Külképviselet címe": "Calle de Ángel de Diego Roldán, 21, Chamartín, 28016 Madrid",
-    "Névjegyzékbe vett választópolgárok száma": "107",
+    "Külképviselet címe": "Calle Fortuny, 6, Planta 4, Chamberí, 28010 Madrid",
+    "Névjegyzékbe vett választópolgárok száma": "230",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
-    "lat": 40.4555885,
-    "lon": -3.6678718
+    "lat": 40.416782,
+    "lon": -3.703507
   },
   {
     "Ország, település": "Spanyolország, Malaga",
-    "Külképviselet címe": "Magyarország Madridi Nagykövetségének Malagai Irodája, Calle Huéscar 2, 3-G, 29007 Málaga",
-    "Névjegyzékbe vett választópolgárok száma": "88",
+    "Külképviselet címe": "Hotel NH Málaga, Calle San Jacinto, 2, Distrito Centro, 29007 Málaga",
+    "Névjegyzékbe vett választópolgárok száma": "191",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1241,8 +1241,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Svájc, Bern",
-    "Külképviselet címe": "Magyarország Nagykövetség Bern, Konzuli Osztály Eigerplatz 5. (11. emelet), CH-3007 Bern",
-    "Névjegyzékbe vett választópolgárok száma": "360",
+    "Külképviselet címe": "Kongresszentrum Allresto Bern, Effingerstrasse 20, 3008 Bern",
+    "Névjegyzékbe vett választópolgárok száma": "725",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1252,7 +1252,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Svájc, Genf",
     "Külképviselet címe": "Rue du Grand-Pré 66. (6. emelet), CH-1202 Genf",
-    "Névjegyzékbe vett választópolgárok száma": "66",
+    "Névjegyzékbe vett választópolgárok száma": "117",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1262,7 +1262,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Svédország, Stockholm",
     "Külképviselet címe": "Magyarország Nagykövetsége, Dag Hammarskjölds väg 10, 115 27 Stockholm",
-    "Névjegyzékbe vett választópolgárok száma": "152",
+    "Névjegyzékbe vett választópolgárok száma": "277",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1271,8 +1271,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Szaúd-Arábia, Rijád",
-    "Külképviselet címe": "Magyarország Nagykövetsége, Riyadh 11693, Al Waha District, Ahmad At Tunisi Str. 23., 12444, Szaúd-Arábia",
-    "Névjegyzékbe vett választópolgárok száma": "5",
+    "Külképviselet címe": "Magyarország Nagykövetsége, Riyadh 11693, King Salman (former Al Waha) District, Ahmad At Tunisi Str. 23., Szaúd-Arábia",
+    "Névjegyzékbe vett választópolgárok száma": "14",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1282,7 +1282,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Szerbia, Belgrád",
     "Külképviselet címe": "Magyarország Nagykövetsége, 11000 Belgrád, Krunska 72.",
-    "Névjegyzékbe vett választópolgárok száma": "6",
+    "Névjegyzékbe vett választópolgárok száma": "9",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1292,7 +1292,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Szerbia, Szabadka",
     "Külképviselet címe": "Magyarország Főkonzulátusa, 24000 Subotica (Szabadka), Đure Đakovića 1-3",
-    "Névjegyzékbe vett választópolgárok száma": "32",
+    "Névjegyzékbe vett választópolgárok száma": "73",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1302,7 +1302,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Szingapúr, Szingapúr",
     "Külképviselet címe": "Embassy of Hungary, 250 North Bridge Road #29-01 Raffles City Tower, Singapore 179101",
-    "Névjegyzékbe vett választópolgárok száma": "28",
+    "Névjegyzékbe vett választópolgárok száma": "59",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1322,7 +1322,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Szlovákia, Kassa",
     "Külképviselet címe": "Magyarország Főkonzulátusa, 04001 Kosice, Hlavná 72",
-    "Névjegyzékbe vett választópolgárok száma": "3",
+    "Névjegyzékbe vett választópolgárok száma": "4",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1331,8 +1331,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Szlovákia, Pozsony",
-    "Külképviselet címe": "Magyarország Nagykövetsége, Pozsony -  81106 Bratislava, Štefánikova 1",
-    "Névjegyzékbe vett választópolgárok száma": "8",
+    "Külképviselet címe": "Magyarország Nagykövetsége, Pozsony - 81106 Bratislava, Stefánikova 1",
+    "Névjegyzékbe vett választópolgárok száma": "13",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1342,7 +1342,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Szlovénia, Lendva",
     "Külképviselet címe": "Magyarország Főkonzulátusa, Fő utca 30. 9220 Lendva, Szlovénia",
-    "Névjegyzékbe vett választópolgárok száma": "1",
+    "Névjegyzékbe vett választópolgárok száma": "2",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1352,7 +1352,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Szlovénia, Ljubljana",
     "Külképviselet címe": "Magyarország Nagykövetsége, 1210 Ljubljana-Šentvid, Ulica Konrada Babnika 5.",
-    "Névjegyzékbe vett választópolgárok száma": "15",
+    "Névjegyzékbe vett választópolgárok száma": "40",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1362,7 +1362,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Tanzánia, Dar Es-Salaam",
     "Külképviselet címe": "Magyarország Nairobi Nagykövetségének Dar es-Salaami Irodája, 2nd floor, Peninsula House, Toure Dr., Masaki",
-    "Névjegyzékbe vett választópolgárok száma": "0",
+    "Névjegyzékbe vett választópolgárok száma": "1",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1372,7 +1372,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Thaiföld, Bangkok",
     "Külképviselet címe": "Park Ventures Ecoplex 14th Floor, 57 Thanon Witthayu (Wireless Road), Lumpini, Pathumwan, Bangkok 10330",
-    "Névjegyzékbe vett választópolgárok száma": "55",
+    "Névjegyzékbe vett választópolgárok száma": "89",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1381,8 +1381,8 @@ const KULKEPVISELETEK = [
   },
   {
     "Ország, település": "Törökország, Ankara",
-    "Külképviselet címe": "Magyarország Nagykövetsége, Ankara, 06680   Çankaya, Kavaklıdere, Remzi Oğuz Arık Mahallesi, Paris Caddesi No. 43/2",
-    "Névjegyzékbe vett választópolgárok száma": "9",
+    "Külképviselet címe": "Magyarország Nagykövetsége, Ankara, 06680 Çankaya, Kavaklıdere, Remzi Oğuz Arık Mahallesi, Paris Caddesi No. 43/2",
+    "Névjegyzékbe vett választópolgárok száma": "16",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1392,7 +1392,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Törökország, Isztambul",
     "Külképviselet címe": "POLAT OFIS B Blok, İmrahor Cad. No: 23 Gürsel Mah., Kağıthane – 34400 ISTANBUL;",
-    "Névjegyzékbe vett választópolgárok száma": "25",
+    "Névjegyzékbe vett választópolgárok száma": "44",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1402,7 +1402,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Tunézia, Tunisz",
     "Külképviselet címe": "Magyarország Nagykövetsége, 12 Rue Achtart, Nord Hilton, 1082 Tunis",
-    "Névjegyzékbe vett választópolgárok száma": "10",
+    "Névjegyzékbe vett választópolgárok száma": "11",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 18:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1422,7 +1422,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Új-Zéland, Wellington",
     "Külképviselet címe": "Level 6, 101 Lambton Quay, Wellington –Új-Zéland",
-    "Névjegyzékbe vett választópolgárok száma": "22",
+    "Névjegyzékbe vett választópolgárok száma": "29",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1432,7 +1432,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Ukrajna, Beregszász",
     "Külképviselet címe": "Ukrajna 90200 Beregszász, Bogdán Hmelynickij u.53.",
-    "Névjegyzékbe vett választópolgárok száma": "14",
+    "Névjegyzékbe vett választópolgárok száma": "44",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1442,7 +1442,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Ukrajna, Kijev",
     "Külképviselet címe": "Magyarország Nagykövetsége, 04053, Kyiv, vul. Reitarska 33. (Посольство Угорщини Київ, вул. Рейтарська 33. м. Київ, 04053)",
-    "Névjegyzékbe vett választópolgárok száma": "3",
+    "Névjegyzékbe vett választópolgárok száma": "6",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1452,7 +1452,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Ukrajna, Ungvár",
     "Külképviselet címe": "Magyarország Főkonzulátusa, 88000, Ungvár, Pravoszláv rkp. 12., Ukrajna",
-    "Névjegyzékbe vett választópolgárok száma": "8",
+    "Névjegyzékbe vett választópolgárok száma": "15",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1482,7 +1482,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Vietnám, Hanoi",
     "Külképviselet címe": "Magyarország Hanoi Nagykövetsége, 28 Thanh Niên, Tay Ho, Hanoi, Vietnám, (Hanoi Lake View épület)",
-    "Névjegyzékbe vett választópolgárok száma": "19",
+    "Névjegyzékbe vett választópolgárok száma": "52",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1492,7 +1492,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Vietnám, Ho Si Minh-város",
     "Külképviselet címe": "Magyarország Főkonzulátusa, 21st Floor, LIM Tower, 9-11 Ton Duc Thang Street, Sai Gon Ward, Ho Chi Minh City 700000, Vietnam",
-    "Névjegyzékbe vett választópolgárok száma": "12",
+    "Névjegyzékbe vett választópolgárok száma": "20",
     "Akadálymentesség": "akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
@@ -1502,7 +1502,7 @@ const KULKEPVISELETEK = [
   {
     "Ország, település": "Zambia, Lusaka",
     "Külképviselet címe": "Magyaroszág Pretoriai Nagykövetségének Irodája, Lusaka 5216 Independence Ave 33379, Lusaka, Zambia",
-    "Névjegyzékbe vett választópolgárok száma": "0",
+    "Névjegyzékbe vett választópolgárok száma": "1",
     "Akadálymentesség": "nem akadálymentes",
     "A szavazás ideje": "2026. április 12., 06:00 - 19:00",
     "Kérelem benyújtásának határideje": "2026. április 2., 16:00 (CET)",
